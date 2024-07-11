@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhitzZ
+- 👋 Hi, I’m PhitzZ
 - 👀 I’m interested in Software, Hardware, and Ethical Hacking
 - 🌱 I’m currently learning japanese language EHE and so many more!
 - 💞️ I’m looking to collaborate with experts in Computer Literacy
